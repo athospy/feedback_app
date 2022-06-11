@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "uif a983u423wf",
+      "rating": 8,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "this is a feedback item 2 commig form the backend"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "this is a feedback item 3 commig form the backend"
+    }
+  ]
+}
